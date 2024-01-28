@@ -2,13 +2,6 @@
 
 # OECD web page
 
-<script type='text/javascript'>                    
-  var divElement = document.getElementById('viz0000000000000');                    
-  var vizElement = divElement.getElementsByTagName('object')[0];                    
-  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
-  var scriptElement = document.createElement('script');                    
-  scriptElement.src = 'https://prod-useast-b.online.tableau.com/#/site/tableaudatavizvms/views/Tableauworksheet1/Sheet1?:iid=2';                 
-  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
-</script>
+<script type='module' src='https://prod-useast-b.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js'></script><tableau-viz id='tableau-viz' src='https://prod-useast-b.online.tableau.com/t/tableaudatavizvms/views/Tableauworksheet1/Sheet1' width='1470' height='793' hide-tabs toolbar='bottom' ></tableau-viz>
 
 
