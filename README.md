@@ -40,7 +40,7 @@ C, C++, Java, SAP ABAP, Data Structures and Algorithms
 
 
 
-## Accomplishments
+## Accomplishment
 
 
 
