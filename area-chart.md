@@ -3,7 +3,7 @@
 ## Area Chart
 <script type='module' src='https://prod-useast-b.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js'></script><tableau-viz id='tableau-viz' src='https://prod-useast-b.online.tableau.com/t/tableaudatavizvms/views/TableaudatavizAreachart/Areachart' width='1470' height='793' hide-tabs toolbar='bottom' ></tableau-viz>
 
-## Comparison of Data Visualization Methods
+## Economic Trends by Location: A Time Series Visualization of Market Dynamics
 
 Among the various methods, area charts, like the one I have created, are particularly useful for representing quantitative data over time, allowing the viewer to grasp trends and patterns at a glance. When constructing the data visualization, I faced a series of decisions regarding the chart type and color scheme. I chose an area chart because it adeptly illustrates how different locations' values have evolved over time. Area charts are particularly effective for showing the cumulative impact of data points, and I wanted to leverage that to highlight trends and changes. This contrasts with bar charts, which are better suited for comparing discrete quantities across categories, and line charts, which emphasize individual data points and their progression over time.
 
