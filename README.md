@@ -26,27 +26,21 @@ Deloitte was an eye-opener, Carnegie Mellon is the gate to bigger opportunities,
    ![mee](https://t4.ftcdn.net/jpg/05/90/45/35/240_F_590453560_ugMuPncnGYB6XnJqmC8xiPQx4eg3jmMD.jpg)
 
 
-# Portfolio
-
 ## Final Project
 
 This is [part1](https://varshithams.github.io/portfolio/final-project-part-one.md) and [part2](https://varshithams.github.io/portfolio/final-project-part-two.md) of final project.
 
 
-
-
 ## Skills
 C, C++, Java, SAP ABAP, Data Structures and Algorithms
 
-
-
 ## Accomplishment
-
-
 
 
 ## What else do I do?
 
 I indulge myself in [extra curricular activities](https://www.instagram.com/jci.mysore.brindhavan/).
+
+## Data Visualization using tableau
 
 
