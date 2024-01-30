@@ -68,13 +68,10 @@ Lastly, the [Area chart](area-chart) serves a strategic purpose. By displaying q
 
 | Feature | Heat Map | Bar Chart | Area Chart |
 |---------|----------|-----------|------------|
-| **Data Representation** | Color intensity represents value | Bar height represents value | Area size represents cumulative value |
-| **Trend Analysis** | Identifies hotspots and anomalies | Shows trends and comparisons | Visualizes volume and trend over time |
-| **Ease of Comparison** | Quick visual comparison across cells | Direct comparison of bar lengths | Relative size of areas shows proportion |
-| **Data Interaction** | Hover for details (interactive) | Static, no interaction | Static, no interaction |
-| **Clarity of Specific Data** | Less clear for precise values | Clear for exact values | Good for overall trends, not precision |
-| **Visual Appeal** | High contrast, easy on the eyes | Clear, distinct bars | Smooth, flowing representation |
-| **Best Use Case** | Overview of data density and spread | Comparison of individual categories | Long-term trend and pattern recognition |
+| **Color Use** | Good for density, may be confusing if many data points | Distinct, easy differentiation of values | Gradual, shows trends without overwhelming |
+| **Readability** | Can be cluttered with many values | Highly readable, clear distinction between data points | Clear trend visualization, less cluttered than heat map |
+| **Eye Strain** | High density of data can strain eyes | Less strain, as bars are spaced and well-defined | Minimal strain, as data is spread and represented as continuous shapes |
+| **Data Extraction** | Difficult to extract precise values due to color reliance | Easy to extract exact figures from bar height | Good for understanding overall trends and patterns |
 
 
 The choice of a bar chart for the final visualization was made to allow precise comparisons of specific values across different categories, which is particularly effective in revealing the exact figures for each location and year. Bar charts are universally understood and show clear delineations between data points, making them ideal for emphasizing individual data points against others.
