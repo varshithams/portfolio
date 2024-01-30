@@ -35,8 +35,8 @@ This is [part1](https://varshithams.github.io/portfolio/final-project-part-one.m
 C, C++, Java, SAP ABAP, Data Structures and Algorithms
 
 ## Accomplishments
-<span style="color:dark blue">Zone Trainer</span>, Junior Chamber International Conducted Training Programs on 'Study Techniques', 'Effective Public Speaking', 'Interview skills', and 'Interpersonal Skills' for 800 students across Karnataka since 2022
-<span style="color:dark blue">President</span>, Junior Chamber International; hosted a Workshop on CAPP, Effective Public Speaking to chapter members, installed a water filter in an underprivileged school
+<span style="color:blue">Zone Trainer</span>, Junior Chamber International Conducted Training Programs on 'Study Techniques', 'Effective Public Speaking', 'Interview skills', and 'Interpersonal Skills' for 800 students across Karnataka since 2022
+<span style="color:blue">President</span>, Junior Chamber International; hosted a Workshop on CAPP, Effective Public Speaking to chapter members, installed a water filter in an underprivileged school
 
 ## What else do I do?
 
@@ -44,10 +44,10 @@ I indulge myself in [extracurricular activities](https://www.instagram.com/jci.m
 
 ## Data Visualization using Tableau
 
-Tableau is a leading tool in data visualization, known for its <span style="color:dark blue">user-friendly</span> interface that caters to a range of users, from business analysts to data scientists. Its intuitive, drag-and-drop functionality <span style="color:dark blue">simplifies</span> the creation and understanding of complex data visualizations. One of Tableau's key strengths is its ability to handle <span style="color:dark blue">large datasets</span> efficiently, enabling the processing and visualization of substantial amounts of data quickly. This feature is particularly beneficial for big data applications and real-time data analysis.
+Tableau is a leading tool in data visualization, known for its <span style="color:blue">user-friendly</span> interface that caters to a range of users, from business analysts to data scientists. Its intuitive, drag-and-drop functionality <span style="color:blue">simplifies</span> the creation and understanding of complex data visualizations. One of Tableau's key strengths is its ability to handle <span style="color:blue">large datasets</span> efficiently, enabling the processing and visualization of substantial amounts of data quickly. This feature is particularly beneficial for big data applications and real-time data analysis.
 
-Tableau offers a diverse array of <span style="color:dark blue">visualization options</span>, including various charts, graphs, maps, and dashboards. This versatility allows users to represent data in the most effective and insightful manner for their specific needs. The interactive dashboards are a standout feature, offering dynamic and engaging visualizations that users can interact with to explore data in greater depth. This interactivity includes capabilities like drilling down into details and filtering data.
+Tableau offers a diverse array of <span style="color:blue">visualization options</span>, including various charts, graphs, maps, and dashboards. This versatility allows users to represent data in the most effective and insightful manner for their specific needs. The interactive dashboards are a standout feature, offering dynamic and engaging visualizations that users can interact with to explore data in greater depth. This interactivity includes capabilities like drilling down into details and filtering data.
 
-Another significant advantage of Tableau is its robust <span style="color:dark blue">data connectivity</span>. It can integrate with a wide variety of data sources, such as SQL databases, cloud databases, spreadsheets, and even big data sources, facilitating comprehensive and multifaceted data analysis. Additionally, Tableau supports <span style="color:dark blue">collaboration and sharing</span>, making it easier for teams to work together on data analysis projects and share insights across the organization or with external stakeholders. This combination of features makes Tableau an invaluable tool in the realm of data visualization and business intelligence.
+Another significant advantage of Tableau is its robust <span style="color:blue">data connectivity</span>. It can integrate with a wide variety of data sources, such as SQL databases, cloud databases, spreadsheets, and even big data sources, facilitating comprehensive and multifaceted data analysis. Additionally, Tableau supports <span style="color:blue">collaboration and sharing</span>, making it easier for teams to work together on data analysis projects and share insights across the organization or with external stakeholders. This combination of features makes Tableau an invaluable tool in the realm of data visualization and business intelligence.
 
 
