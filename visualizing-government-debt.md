@@ -8,6 +8,8 @@ The data source can be found [here](https://data.oecd.org/gga/general-government
 
 The chart is likely designed to allow for an easy comparison of debt levels relative to the size of each country's economy, which is a key indicator of the sustainability of government finance. The highlighted bar in black could indicate a specific country of interest or a benchmark for comparison. This type of visualization is helpful for quickly identifying which countries have higher or lower government debt relative to their GDP, making it a useful tool for economists, policymakers, and researchers interested in international fiscal comparisons.
 
+I have represented this data in [heat map](heat-map), [Area chart](area-chart), and [Bar chart](bar-chart).
+
 
 
 
