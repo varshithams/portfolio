@@ -11,3 +11,12 @@
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';  
   vizElement.parentNode.insertBefore(scriptElement, vizElement);        
 </script>
+
+
+The bar chart was chosen for this dataset to effectively communicate the changes in numerical values across multiple locations over a span of years. This type of chart is particularly adept at providing a clear visual comparison of values, such as economic indicators across countries. The use of a bar chart allows viewers to easily discern trends and make comparisons at a glance, with the length of the bars representing the magnitude of the values, which in this case could be a metric like debt-to-GDP ratio, population figures, or another quantitative measure.
+
+The chosen color, a shade of blue, is neutral and professional, minimizing distractions while ensuring that the focus remains on the data. Blue is often associated with trust and reliability, which can help in presenting the data in a way that is perceived as credible. It's also a color that is generally accessible to those with color vision deficiencies, making the chart inclusive to a wider audience.
+
+The numbers displayed on the graph provide exact values for each bar, which is essential for precise data analysis and verification. This addition improves the chart's utility for viewers who need to know the exact figures rather than just the visual trend.
+
+Overall, the bar chart's clean layout, aided by the sensible color choice and clear numerical labeling, creates a visually appealing and informative representation of the dataset, enabling better data comprehension and insight derivation.
