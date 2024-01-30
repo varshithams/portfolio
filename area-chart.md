@@ -11,7 +11,7 @@
  vizElement.parentNode.insertBefore(scriptElement, vizElement);            
 </script>
 
-## Economic Trends by Location: A Time Series Visualization of Market Dynamics
+### Economic Trends by Location: A Time Series Visualization of Market Dynamics using area chart
 
 Among the various methods, area charts, like the one I have created, are particularly useful for representing quantitative data over time, allowing the viewer to grasp trends and patterns at a glance. When constructing the data visualization, I faced a series of decisions regarding the chart type and color scheme. I chose an area chart because it adeptly illustrates how different locations' values have evolved over time. Area charts are particularly effective for showing the cumulative impact of data points, and I wanted to leverage that to highlight trends and changes. This contrasts with bar charts, which are better suited for comparing discrete quantities across categories, and line charts, which emphasize individual data points and their progression over time.
 
