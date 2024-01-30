@@ -58,13 +58,31 @@ Utilizing the comprehensive dataset provided in [visualizing debt](visualizing-g
 
 The first visualization is a [Heat Map](heat-map). This method is particularly adept at showcasing the concentration of values across two dimensions, allowing for a quick comparison across categories and time. In this instance, the Heat Map vividly highlights the differences in values across various locations over a series of years, with color intensities reflecting the magnitude of the data points. This visualization is instrumental in identifying trends and outliers at a glance.
 
-### I have used a bar chart and area chart here. I wanted to explore both these visual representation using tableau.
+### I have used a bar chart and area chart here. I wanted to explore both these visual representations using tableau.
 
 The second visualization is a [Bar Chart](bar-chart). Bar Charts are exceptionally useful for comparing quantitative data across different categories. The bars provide a clear visual representation of the data, making it easy to compare the relative size of the values they represent. In our case, the Bar Chart allows for an immediate comparative analysis of the values across different countries, presenting a straightforward view of the numerical data that would be less discernible in a textual format.
 
 Lastly, the [Area chart](area-chart) serves a strategic purpose. By displaying quantities over time, it not only shows the magnitude of the values but also allows for the understanding of the progression and trends across time. The stacking of data points provides a sense of the cumulative effect of the values, making it particularly useful for visualizing the data that accumulates over time. This visualization emphasizes the growth or decline in values across different locations over the years, offering a comprehensive view of the data's trajectory.
 
-Together, these visualizations provide a multifaceted view of the dataset, each chosen for its strength in communicating specific types of relationships within the data, thus allowing for a deeper and more nuanced understanding of the underlying trends and patterns.
+### Compare all 3 visualization
+
+| Feature | Heat Map | Bar Chart | Area Chart |
+|---------|----------|-----------|------------|
+| **Data Representation** | Color intensity represents value | Bar height represents value | Area size represents cumulative value |
+| **Trend Analysis** | Identifies hotspots and anomalies | Shows trends and comparisons | Visualizes volume and trend over time |
+| **Ease of Comparison** | Quick visual comparison across cells | Direct comparison of bar lengths | Relative size of areas shows proportion |
+| **Data Interaction** | Hover for details (interactive) | Static, no interaction | Static, no interaction |
+| **Clarity of Specific Data** | Less clear for precise values | Clear for exact values | Good for overall trends, not precision |
+| **Visual Appeal** | High contrast, easy on the eyes | Clear, distinct bars | Smooth, flowing representation |
+| **Best Use Case** | Overview of data density and spread | Comparison of individual categories | Long-term trend and pattern recognition |
+
+
+The choice of a bar chart for the final visualization was made to allow precise comparisons of specific values across different categories, which is particularly effective in revealing the exact figures for each location and year. Bar charts are universally understood and show clear delineations between data points, making them ideal for emphasizing individual data points against others.
+
+The area chart was selected to represent the data as it excels in showing how values develop over time, with the ability to represent both the individual data points and their cumulative effect. This gives a more holistic view of the data's progression, making it suitable for visualizing extended trends and providing a clear indication of growth or decline over the period in question.
+
+Both visualizations were deemed appropriate for their respective strengths: the bar chart for its precise, comparative capabilities, and the area chart for its effective display of trends and cumulative data, providing complementary perspectives on the dataset.
+
 
 
 
