@@ -35,8 +35,9 @@ This is [part1](https://varshithams.github.io/portfolio/final-project-part-one.m
 C, C++, Java, SAP ABAP, Data Structures and Algorithms
 
 ## Accomplishments
-<span style="color:blue">Zone Trainer</span>, Junior Chamber International Conducted Training Programs on 'Study Techniques', 'Effective Public Speaking', 'Interview skills', and 'Interpersonal Skills' for 800 students across Karnataka since 2022
-<span style="color:blue">President</span>, Junior Chamber International; hosted a Workshop on CAPP, Effective Public Speaking to chapter members, installed a water filter in an underprivileged school
+1.  <span style="color:blue">Zone Trainer</span>, Junior Chamber International Conducted Training Programs on 'Study Techniques', 'Effective Public Speaking', 'Interview skills', and 'Interpersonal Skills' for 800 students across Karnataka since 2022
+
+2.  <span style="color:blue">President</span>, Junior Chamber International; hosted a Workshop on CAPP, Effective Public Speaking to chapter members, installed a water filter in an underprivileged school
 
 ## What else do I do?
 
