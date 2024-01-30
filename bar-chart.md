@@ -12,6 +12,7 @@
   vizElement.parentNode.insertBefore(scriptElement, vizElement);        
 </script>
 
+### Economic Trends by Location: A Time Series Visualization of Market Dynamics using bar chart
 
 The bar chart was chosen for this dataset to effectively communicate the changes in numerical values across multiple locations over a span of years. This type of chart is particularly adept at providing a clear visual comparison of values, such as economic indicators across countries. The use of a bar chart allows viewers to easily discern trends and make comparisons at a glance, with the length of the bars representing the magnitude of the values, which in this case could be a metric like debt-to-GDP ratio, population figures, or another quantitative measure.
 
