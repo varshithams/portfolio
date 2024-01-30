@@ -54,7 +54,7 @@ Another significant advantage of Tableau is its robust <span style="color:blue">
 
 ## 3 data Visualization
 
-Utilizing the comprehensive dataset provided, I have crafted <u>three</u> distinct data visualizations to elucidate various aspects of the data, each tailored to present specific insights effectively.
+Utilizing the comprehensive dataset provided in [visualizing debt](visualizing-government-debt), I have crafted <u>three</u> distinct data visualizations to elucidate various aspects of the data, each tailored to present specific insights effectively.
 
 The first visualization is a [Heat Map](heat-map). This method is particularly adept at showcasing the concentration of values across two dimensions, allowing for a quick comparison across categories and time. In this instance, the Heat Map vividly highlights the differences in values across various locations over a series of years, with color intensities reflecting the magnitude of the data points. This visualization is instrumental in identifying trends and outliers at a glance.
 
