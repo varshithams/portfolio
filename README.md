@@ -79,6 +79,24 @@ The [Area chart](area-chart) was selected to represent the data as it excels in 
 
 Both visualizations were deemed appropriate for their respective strengths: the bar chart for its precise, comparative capabilities, and the area chart for its effective display of trends and cumulative data, providing complementary perspectives on the dataset.
 
+## Critique by Design with Tableau (MakeoverMonday)
+I chose to redesign [Who do we spend time with across our lifetime?](https://ourworldindata.org/time-with-others-lifetime) which I found on [makeovermonday](https://makeovermonday.co.uk/) website.
+
+![america](https://ourworldindata.org/grapher/time-spent-with-relationships-by-age-us)
+
+Using the [Data Visualization Effectiveness Profile](https://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf) (DVEP) to evaluate the line chart depicting how Americans spend their time with various groups across different ages provides a structured approach to critique its utility and design. The DVEP's multi-dimensional evaluation criteria—covering usefulness, completeness, perceptibility, truthfulness, intuitiveness, aesthetics, and engagement—allow for a comprehensive assessment beyond subjective measures.
+
+By using the DVEP, I can affirm that the visualization effectively communicates valuable information for the stakeholders(usefulness). Upon applying the DVEP, it becomes apparent that relational nuances—such as the quality of interactions or the context of 'alone' time—are not captured. Adding layers of data that provide context to the 'alone' time, such as whether it is by choice or circumstance, would give a richer understanding of the data(completeness). In terms of perceptibility, the chart is well-designed with clear, distinguishable lines. However, the DVEP highlights the potential for improvement in the representation of overlapping data points.
+
+The truthfulness criterion within the DVEP ensures the data's accuracy and reliability. The visualization appears to meet this standard, but the DVEP prompts questions about the potential for oversimplification. For example, does the representation of time with children versus with family appropriately differentiate between the two, or is there an overlap that isn't addressed?
+
+The chart scores high on intuitiveness for those familiar with line graphs, but the DVEP suggests that additional guidance could be beneficial for novice users. Aesthetically, the visualization is clean and not overburdened with excessive elements, aligning with the DVEP's emphasis on simplicity. However, it points out the need for a more cohesive color scheme that aids those with color vision deficiencies and improves overall legibility. Lastly, in terms of engagement, the chart tells a compelling story that invites further inquiry, aligning with the DVEP's criteria.
+
+While line charts are suitable for this data, I would explore the use of an area chart to represent the cumulative time spent with different people.
+
+
+
+
 
 
 
