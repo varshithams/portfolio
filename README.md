@@ -82,7 +82,7 @@ Both visualizations were deemed appropriate for their respective strengths: the 
 ## Critique by Design with Tableau (MakeoverMonday)
 I chose to redesign [Who do we spend time with across our lifetime?](https://ourworldindata.org/time-with-others-lifetime) which I found on [makeovermonday](https://makeovermonday.co.uk/) website.
 
-![america](https://ourworldindata.org/grapher/time-spent-with-relationships-by-age-us)
+<iframe src="https://ourworldindata.org/grapher/time-spent-with-relationships-by-age-us" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 Using the [Data Visualization Effectiveness Profile](https://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf) (DVEP) to evaluate the line chart depicting how Americans spend their time with various groups across different ages provides a structured approach to critique its utility and design. The DVEP's multi-dimensional evaluation criteria—covering usefulness, completeness, perceptibility, truthfulness, intuitiveness, aesthetics, and engagement—allow for a comprehensive assessment beyond subjective measures.
 
