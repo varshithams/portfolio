@@ -3,6 +3,8 @@
 # Hey Everyone!
 This is my public portfolio for Telling Stories with Data at CMU!
 
+![Photo (1)](https://github.com/varshithams/portfolio/assets/65653455/002eea30-3e52-42a9-b6ed-394be2be6514)
+
 # About me
 I am Varshitha Mysore Suresh (she/her). I know coding enough to be a geek and can also train you to speak.
 
@@ -23,7 +25,6 @@ Deloitte was an eye-opener, Carnegie Mellon is the gate to bigger opportunities,
 4. And obviously learn how to tell stories with data!
 
    Post my graduation from CMU, I would like to pursue my career in the IT industry as a developer or data engineer.
-   ![mee](https://t4.ftcdn.net/jpg/05/90/45/35/240_F_590453560_ugMuPncnGYB6XnJqmC8xiPQx4eg3jmMD.jpg)
 
 
 ## Final Project
@@ -93,6 +94,9 @@ The truthfulness criterion within the DVEP ensures the data's accuracy and relia
 The chart scores high on intuitiveness for those familiar with line graphs, but the DVEP suggests that additional guidance could be beneficial for novice users. Aesthetically, the visualization is clean and not overburdened with excessive elements, aligning with the DVEP's emphasis on simplicity. However, it points out the need for a more cohesive color scheme that aids those with color vision deficiencies and improves overall legibility. Lastly, in terms of engagement, the chart tells a compelling story that invites further inquiry, aligning with the DVEP's criteria.
 
 While line charts are suitable for this data, I would explore the use of an [area chart with clusters](area-chart-with-clusters) to represent the cumulative time spent with different people.
+
+
+
 
 
 
