@@ -3,7 +3,7 @@
 # Hey Everyone!
 This is my public portfolio for Telling Stories with Data at CMU!
 
-<img src="https://github.com/varshithams/portfolio/assets/65653455/002eea30-3e52-42a9-b6ed-394be2be6514" width="100" height="100">
+<img src="https://github.com/varshithams/portfolio/assets/65653455/002eea30-3e52-42a9-b6ed-394be2be6514" width="100" height="150">
 
 # About me
 I am Varshitha Mysore Suresh (she/her). I know coding enough to be a geek and can also train you to speak.
