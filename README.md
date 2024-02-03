@@ -80,6 +80,8 @@ The [Area chart](area-chart) was selected to represent the data as it excels in 
 
 Both visualizations were deemed appropriate for their respective strengths: the bar chart for its precise, comparative capabilities, and the area chart for its effective display of trends and cumulative data, providing complementary perspectives on the dataset.
 
+## Want to check out more of the critique that I have done? Check out [Critique by Design with Tableau (MakeoverMonday)](Critique-by-Design-with-Tableau-(MakeoverMonday))
+
 ## Critique by Design with Tableau (MakeoverMonday)
 
 ### Step One: choose a data visualization from MakeoverMonday
