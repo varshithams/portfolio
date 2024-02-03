@@ -92,7 +92,7 @@ The truthfulness criterion within the DVEP ensures the data's accuracy and relia
 
 The chart scores high on intuitiveness for those familiar with line graphs, but the DVEP suggests that additional guidance could be beneficial for novice users. Aesthetically, the visualization is clean and not overburdened with excessive elements, aligning with the DVEP's emphasis on simplicity. However, it points out the need for a more cohesive color scheme that aids those with color vision deficiencies and improves overall legibility. Lastly, in terms of engagement, the chart tells a compelling story that invites further inquiry, aligning with the DVEP's criteria.
 
-While line charts are suitable for this data, I would explore the use of an area chart to represent the cumulative time spent with different people.
+While line charts are suitable for this data, I would explore the use of an [area chart with clusters](area-chart-with-clusteers) to represent the cumulative time spent with different people.
 
 
 
