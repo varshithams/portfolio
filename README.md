@@ -1,4 +1,4 @@
-| [home page](https://varshithams.github.io/portfolio/) | [visualizing debt](visualizing-government-debt) |  [heat map](heat-map) | [Area chart](area-chart) | [Bar chart](bar-chart) | [critique by design](critique-by-design) | [MakeoverMonday](make-over-monday) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://varshithams.github.io/portfolio/) | [visualizing debt](visualizing-government-debt) |  [heat map](heat-map) | [Area chart](area-chart) | [Bar chart](bar-chart) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Hey Everyone!
 This is my public portfolio for Telling Stories with Data at CMU!
@@ -80,11 +80,12 @@ The [Area chart](area-chart) was selected to represent the data as it excels in 
 
 Both visualizations were deemed appropriate for their respective strengths: the bar chart for its precise, comparative capabilities, and the area chart for its effective display of trends and cumulative data, providing complementary perspectives on the dataset.
 
-## Want to check out more of the critique that I have done? Check out [Critique by Design with Tableau (MakeoverMonday)](Critique-by-Design-with-Tableau-(MakeoverMonday))
+## Want to check out more of the critiques that I have done? 
+Check out [Critique by Design with Tableau (MakeoverMonday)](critique-by-design)
 
 ## Critique by Design with Tableau (MakeoverMonday)
 
-### Step One: choose a data visualization from MakeoverMonday
+### Step One: Choose a data visualization from MakeoverMonday
 
 I chose to redesign [Who do we spend time with across our lifetime?](https://ourworldindata.org/time-with-others-lifetime) which I found on [makeovermonday](https://makeovermonday.co.uk/) website.
 
