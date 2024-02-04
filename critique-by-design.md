@@ -24,19 +24,27 @@ While line charts are suitable for this data, I would explore the use of an [are
 
 ### Step four: Test the solution
 
-I asked two of my CMU friends who are studying MISM-BIDA and are in their mid-20s to give feedback for the [area chart with clusters](area-chart-with-clusters) that I made to represent the cumulative time spent with different people. Their responses for my questions go like this:
+I asked two of my CMU friends who are studying MISM-BIDA and are in their mid-20s to give feedback for the [area chart with clusters](area-chart-with-clusters) that I made to represent the cumulative time spent with different people. Their responses to my questions go like this:
 
 **Friend 1:**
 
 _What do you think this is?_
+" How much time do people spend with whom at a particular age"
 
 _Can you describe to me what this is telling you?_
+" At the age of 70, people spend a lot of time which I never expected. They spend more time with children at the age of 35-40 and the most shocking thing is people spend very less time with their friends at the age of 60-75 which I never expected or was not ready for. The correlation with being alone or with a partner exists. You are either alone or with your partner for most of your life. "
 
 _Is there anything you find surprising or confusing?_
+"A surprising element to me is at the age of 55 - 75, time spent with friends is less. Either with family or with your partner as well is less which means it's mostly alone which is scary. Numerical in y axis for time spent with friends( 0 - 50 - 100) is different when compared to other category( 0 - 100- 200) which is confusing"
 
 _Who do you think is the intended audience for this?_
+"Introverts like me. People who want to date or looking for a relationship. This might also help people who are studying psychology. Lets say I want to build a resort, I would want to look at this graph as I would know who my target audiences are based on age to increase my marketing there"
 
 _Is there anything you would change or do differently?_
+" As I mentioned earlier I would change the numerical values in time spent  with friends matching the other categories. I would also want to know more about the span of those individuals whose data was collected. Time spent - these words keep repeating in yaxis I would remove it and keep it simple making it easier to read or find the categories"
+
+_How much would you rate this on 10?_
+" I would rate this 9/10 as it was easy to understand as a whole, but if you make those changes that I mentioned I think it would be much easier"
 
 
 
