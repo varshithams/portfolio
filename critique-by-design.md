@@ -4,7 +4,7 @@
 
 ### Step One: Choose a data visualization from MakeoverMonday
 
-I chose to redesign [Who do we spend time with across our lifetime?](https://ourworldindata.org/time-with-others-lifetime) which I found on [makeovermonday](https://makeovermonday.co.uk/) website.
+I chose to redesign [Who do we spend time with across our lifetime?](https://ourworldindata.org/time-with-others-lifetime) which I found on [makeovermonday](https://makeovermonday.co.uk/) website. I found this particular topic very interesting and wanted to know more about it.
 
 <iframe src="https://ourworldindata.org/grapher/time-spent-with-relationships-by-age-us" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
