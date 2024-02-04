@@ -38,12 +38,12 @@ _Is there anything you find surprising or confusing?_
 "A surprising element to me is at the age of 55 - 75, time spent with friends is less. Either with family or with your partner as well is less which means it's mostly alone which is scary. Numerical in y axis for time spent with friends( 0 - 50 - 100) is different when compared to other category( 0 - 100- 200) which is confusing"
 
 _Who do you think is the intended audience for this?_
-"Introverts like me. People who want to date or looking for a relationship. This might also help people who are studying psychology. Lets say I want to build a resort, I would want to look at this graph as I would know who my target audiences are based on age to increase my marketing there"
+"Introverts like me. People who want to date or are looking for a relationship. This might also help people who are studying psychology. Let's say I want to build a resort, I would want to look at this graph as I would know who my target audiences are based on age to increase my marketing there"
 
 _Is there anything you would change or do differently?_
-" As I mentioned earlier I would change the numerical values in time spent  with friends matching the other categories. I would also want to know more about the span of those individuals whose data was collected. Time spent - these words keep repeating in yaxis I would remove it and keep it simple making it easier to read or find the categories"
+" As I mentioned earlier I would change the numerical values in time spent  with friends matching the other categories. I would also want to know more about the span of those individuals whose data was collected. Time spent - these words keep repeating in the y-axis I would remove it and keep it simple making it easier to read or find the categories"
 
-_How much would you rate this on 10?_
+_How much would you rate this out of 10?_
 " I would rate this 9/10 as it was easy to understand as a whole, but if you make those changes that I mentioned I think it would be much easier"
 
 
@@ -51,16 +51,25 @@ _How much would you rate this on 10?_
 **Friend 2:**
 
 _What do you think this is?_
+"How much time a person spends with other people or alone at different point of time in their life"
 
 _Can you describe to me what this is telling you?_
+"Time spent alone doesn't fluctuate much. At some age, the fluctuation is there but it's not significant which reflects that the person tends to spend most of the time with himself. Time spent with children - There are situations where people have had children at an early age but there is a major spike in the yellow zone which indicates people tend to spend more time with the kids at that particular age - whatever time you might have had a kid, you will spend more time with them in 30-40. Kids will leave eventually. Time spent with coworkers - red zone  is when you start working so there is a  definite spike, majority of our time is spent there. Most of us are working mostly in the yellow zone at that age so it looks like we are spending more time during adulthood. There is a slight decrease in the yellow zone here and there as the number of people you work with keeps changing. Blue indicates retirement so time spent eventually drops. Time spent with friends - The red zone indicates more friends and more time because that's when we go to college and it's a sweet spot, not enough responsibility, but there is a dip when we reach the yellow zone because responsibility is more and energy is less with friends. And with a partner - increases and keeps increasing which is amazing. With others - more time when you are a kid, and it starts decreasing when you reach adulthood as you are more independent here and decreases more when you become old."
 
 _Is there anything you find surprising or confusing?_
+"Confusing - Time spent with friends is a little confusing here with respect to data. Red to yellow there is a major dip. I think more time will be spent in adult age. After work, you want to chill with friends so such a huge dip is confusing.
+Surprising - Time spent with a partner is confusing aswell because you will be working more in the yellow zone. So is that possible to spend time in the yellow zone that is adulthood? I feel in red it would be more. In the red zone, we might have a partner and time and we often will be able to give time to our partner there. But here according to data, we spend less time there which is very surprising and not right according to me"
 
 _Who do you think is the intended audience for this?_
+"Working population which could have other social relevance like the realization of where they are spending time and where they could."
 
 _Is there anything you would change or do differently?_
+"I would not change anything"
+
+_How much would you rate this out of 10?_
+"10/10 - I could understand what I was seeing. Confusing was with numbers/facts and not with the visualisation."
 
 ### Step five: Build your solution
 
-There are some things that I learnt from the feedback.
+There are some things that I learned from the feedback.
 
