@@ -90,7 +90,7 @@ _How much would you rate this out of 10?_
 
 There are many things that I learned from the feedback. I have included most of the changes suggested by my friends and made the changes to make the visualization look much better and more understandable.
 
-Changes included a clear heading, more redundancy in the y-axis, and adding another row above the y-axis. I realized I could also add some information with the heading to give more clarity regarding what the graph is trying to convey. One more major thing was the intervals in yaxis was not unique which I changed here.
+Changes included a clear heading, more redundancy in the y-axis, and adding another row above the y-axis. I realized I could also add some information with the heading to give more clarity regarding what the graph is trying to convey. One more major thing was the intervals in the y-axis were not unique which I changed here.
 
 <div class='tableauPlaceholder' id='viz1707093684478' style='position: relative'><noscript><a href='#'><img alt='Who do we spend time with across our lifetime? (United States) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ar&#47;Areachartwithclusters-timespentwithrelationship_updated&#47;Areachartwithclusters3&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Areachartwithclusters-timespentwithrelationship_updated&#47;Areachartwithclusters3' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ar&#47;Areachartwithclusters-timespentwithrelationship_updated&#47;Areachartwithclusters3&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div> 
 <script type='text/javascript'> 
@@ -109,6 +109,20 @@ Post critique session in the classroom I came up with new inspiration that can b
 Based on the suggestion that I received, I added a timeline of the data and rearranged the categories where I put data with partners and friends on top as people would be excited to more about them.
 My classmate also mentioned how surprising this data is about people spending time with partners, friends, or themselves. She mentioned clustering the data made it more clear and understandable. 
 
+<div class='tableauPlaceholder' id='viz1707167584154' style='position: relative'><noscript><a href='#'><img alt='Who do we spend time with across our lifetime? (United States between 2009 and 2019)Studying how people across the world spend their time provides an important perspective for understanding living conditions, economic opportunities, and general well-bei ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ar&#47;Areachartwithclusters-timespentwithrelationship_updated1&#47;Areachartwithclusters3&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Areachartwithclusters-timespentwithrelationship_updated1&#47;Areachartwithclusters3' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ar&#47;Areachartwithclusters-timespentwithrelationship_updated1&#47;Areachartwithclusters3&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
+<script type='text/javascript'> 
+  var divElement = document.getElementById('viz1707167584154');
+  var vizElement = divElement.getElementsByTagName('object')[0]; 
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px'; 
+  var scriptElement = document.createElement('script'); 
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; 
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);   
+</script>
+
+Source: https://ourworldindata.org/time-use#who-do-we-spend-time-with-across-our-lifetime
+
+
+### Additional research 
 I would further like to survey on the same matter with current data if available.
 
 
