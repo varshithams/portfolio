@@ -122,8 +122,6 @@ My classmate also mentioned how surprising this data is about people spending ti
 Source: https://ourworldindata.org/time-use#who-do-we-spend-time-with-across-our-lifetime
 
 
-### Additional research 
-I would further like to survey on the same matter with current data if available.
 
 
 
