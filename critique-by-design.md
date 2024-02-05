@@ -105,4 +105,11 @@ Changes included a clear heading, more redundancy in the y-axis, and adding anot
 Source: https://ourworldindata.org/time-use#who-do-we-spend-time-with-across-our-lifetime
 
 
+Post critique session in the classroom I came up with new inspiration that can be added to my present chart.
+Based on the suggestion that I received, I added a timeline of the data and rearranged the categories where I put data with partners and friends on top as people would be excited to more about them.
+My classmate also mentioned how surprising this data is about people spending time with partners, friends, or themselves. She mentioned clustering the data made it more clear and understandable. 
+
+I would further like to survey on the same matter with current data if available.
+
+
 
