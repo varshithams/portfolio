@@ -58,7 +58,7 @@ _Can you describe to me what this is telling you?_
 
 _Is there anything you find surprising or confusing?_
 "Confusing - Time spent with friends is a little confusing here with respect to data. Red to yellow there is a major dip. I think more time will be spent in adult age. After work, you want to chill with friends so such a huge dip is confusing.
-Surprising - Time spent with a partner is confusing aswell because you will be working more in the yellow zone. So is that possible to spend time in the yellow zone that is adulthood? I feel in red it would be more. In the red zone, we might have a partner and time and we often will be able to give time to our partner there. But here according to data, we spend less time there which is very surprising and not right according to me"
+Surprising - Time spent with a partner is confusing as well because you will be working more in the yellow zone. So is that possible to spend time in the yellow zone that is adulthood? I feel in red it would be more. In the red zone, we might have a partner and time and we often will be able to give time to our partner there. But here according to data, we spend less time there which is very surprising and not right according to me"
 
 _Who do you think is the intended audience for this?_
 "Working population which could have other social relevance like the realization of where they are spending time and where they could."
@@ -67,9 +67,19 @@ _Is there anything you would change or do differently?_
 "I would not change anything"
 
 _How much would you rate this out of 10?_
-"10/10 - I could understand what I was seeing. Confusing was with numbers/facts and not with the visualisation."
+"10/10 - I could understand what I was seeing. Confusing was with numbers/facts and not with the visualization."
 
 ### Step five: Build your solution
 
-There are some things that I learned from the feedback.
+There are some things that I learned from the feedback. I have included most of the changes suggested by my friends and made the changes to make the visualization look much better and more understandable.
+
+<div class='tableauPlaceholder' id='viz1707093684478' style='position: relative'><noscript><a href='#'><img alt='Who do we spend time with across our lifetime? (United States) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ar&#47;Areachartwithclusters-timespentwithrelationship_updated&#47;Areachartwithclusters3&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Areachartwithclusters-timespentwithrelationship_updated&#47;Areachartwithclusters3' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ar&#47;Areachartwithclusters-timespentwithrelationship_updated&#47;Areachartwithclusters3&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div> 
+<script type='text/javascript'> 
+  var divElement = document.getElementById('viz1707093684478'); 
+  var vizElement = divElement.getElementsByTagName('object')[0];   
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
+  var scriptElement = document.createElement('script'); 
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';  
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);    
+</script>
 
