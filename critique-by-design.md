@@ -18,6 +18,8 @@ The truthfulness criterion within the DVEP ensures the data's accuracy and relia
 
 The chart scores high on intuitiveness for those familiar with line graphs, but the DVEP suggests that additional guidance could be beneficial for novice users. Aesthetically, the visualization is clean and not overburdened with excessive elements, aligning with the DVEP's emphasis on simplicity. However, it points out the need for a more cohesive color scheme that aids those with color vision deficiencies and improves overall legibility. Lastly, in terms of engagement, the chart tells a compelling story that invites further inquiry, aligning with the DVEP's criteria.
 
+I decided to redesign this and make it more user-friendly and engaging.
+
 ### Step three: sketch out a solution
 
 While line charts are suitable for this data, I would explore the use of an [area chart with clusters](area-chart-with-clusters) to represent the cumulative time spent with different people.
@@ -32,6 +34,11 @@ While line charts are suitable for this data, I would explore the use of an [are
   vizElement.parentNode.insertBefore(scriptElement, vizElement);      
 </script>
 
+Source: https://ourworldindata.org/time-use#who-do-we-spend-time-with-across-our-lifetime
+
+I wanted to choose an area chart specifically because I wanted to know how the data flows or the area looks as we age. While I was doing this, I realized that I could go ahead and create 3 clusters representing young age(red), adulthood(orange), and old age(blue). Now it's much easier to know where we stand right now and where are we spending most of our time. With this information, if we are unhappy with the fact, we can change our lifestyle. I chose very subtle colors that are not harsh on our eyes and aid those with color vision deficiencies. Later added a heading as an Area chart and went ahead to clean the axis by removing redundant words like United States. After further alignment, and font changes I felt the chart conveyed information better than it did originally in the line chart. Now it was time for feedback from my friends.
+
+
 ### Step four: Test the solution
 
 I asked two of my CMU friends who are studying MISM-BIDA and are in their mid-20s to give feedback for the [area chart with clusters](area-chart-with-clusters) that I made to represent the cumulative time spent with different people. Their responses to my questions go like this:
@@ -45,7 +52,7 @@ _Can you describe to me what this is telling you?_
 " At the age of 70, people spend a lot of time which I never expected. They spend more time with children at the age of 35-40 and the most shocking thing is people spend very less time with their friends at the age of 60-75 which I never expected or was not ready for. The correlation with being alone or with a partner exists. You are either alone or with your partner for most of your life. "
 
 _Is there anything you find surprising or confusing?_
-"A surprising element to me is at the age of 55 - 75, time spent with friends is less. Either with family or with your partner as well is less which means it's mostly alone which is scary. Numerical in y axis for time spent with friends( 0 - 50 - 100) is different when compared to other category( 0 - 100- 200) which is confusing"
+"A surprising element to me is at the age of 55 - 75, time spent with friends is less. Either with family or with your partner as well is less which means it's mostly alone which is scary. Numerical in y-axis for time spent with friends( 0 - 50 - 100) is different when compared to other category( 0 - 100- 200) which is confusing"
 
 _Who do you think is the intended audience for this?_
 "Introverts like me. People who want to date or are looking for a relationship. This might also help people who are studying psychology. Let's say I want to build a resort, I would want to look at this graph as I would know who my target audiences are based on age to increase my marketing there"
@@ -81,7 +88,9 @@ _How much would you rate this out of 10?_
 
 ### Step five: Build your solution
 
-There are some things that I learned from the feedback. I have included most of the changes suggested by my friends and made the changes to make the visualization look much better and more understandable.
+There are many things that I learned from the feedback. I have included most of the changes suggested by my friends and made the changes to make the visualization look much better and more understandable.
+
+Changes included a clear heading, more redundancy in the y-axis, and adding another row above the y-axis. I realized I could also add some information with the heading to give more clarity regarding what the graph is trying to convey.
 
 <div class='tableauPlaceholder' id='viz1707093684478' style='position: relative'><noscript><a href='#'><img alt='Who do we spend time with across our lifetime? (United States) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ar&#47;Areachartwithclusters-timespentwithrelationship_updated&#47;Areachartwithclusters3&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Areachartwithclusters-timespentwithrelationship_updated&#47;Areachartwithclusters3' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ar&#47;Areachartwithclusters-timespentwithrelationship_updated&#47;Areachartwithclusters3&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div> 
 <script type='text/javascript'> 
@@ -92,4 +101,8 @@ There are some things that I learned from the feedback. I have included most of 
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';  
   vizElement.parentNode.insertBefore(scriptElement, vizElement);    
 </script>
+
+Source: https://ourworldindata.org/time-use#who-do-we-spend-time-with-across-our-lifetime
+
+
 
