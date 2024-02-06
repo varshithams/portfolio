@@ -12,6 +12,9 @@
   vizElement.parentNode.insertBefore(scriptElement, vizElement);     
 </script>
 
+Source : https://ourworldindata.org/time-with-others-lifetime
+
+
 ## This looks better because
 
 1. The use of clustering in the area chart clearly demarcates the data into visually distinct segments, making it easier to see the proportions of time spent with different groups at each age. This can be especially helpful when the data have overlapping values, which can be hard to decipher in a line chart.
