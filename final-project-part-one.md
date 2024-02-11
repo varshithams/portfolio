@@ -73,10 +73,8 @@ The data for this project is sourced from two publicly available websites, which
 | Name | URL | Description |
 |------|-----|-------------|
 | FRDR dataset     | https://www.frdr-dfdr.ca/repo/dataset/431c9d2f-7bc2-4600-8f4a-b29f4fa732f4) and [Datadryad dataset](https://datadryad.org/stash/dataset/doi:10.5061/dryad.z612jm6h2    | There are 3 datasets which I will using here for which concentrates mostly on how the usage of plastic or presence of microplastic in ocean has increased over time           |
-| Datadryad dataset     |  https://datadryad.org/stash/dataset/doi:10.5061/dryad.z612jm6h2   | This website concentrates on types of microplastic and there concentration in the ocean and their impact.          |
+| Datadryad dataset     |  https://datadryad.org/stash/dataset/doi:10.5061/dryad.z612jm6h2   | This website concentrates on types of microplastic and their concentration in the ocean and their impact.          |
 |      |     |             |
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
-
-Text here...
+For my final project, I plan to gather and preprocess data from two publicly available websites using Shorthand for storytelling and Tableau for analysis and visualization. I will explore trends in microplastic concentrations, assess their impact on marine ecosystems, and analyze patterns in data-sharing practices. Finally, I will synthesize the findings, highlighting the significance of microplastic pollution and proposing recommendations for future research and policy action. Throughout the process, I will ensure transparency and reproducibility by documenting my methodology and code, aiming to present results in a clear and accessible manner to engage and inform stakeholders.
