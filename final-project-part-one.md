@@ -55,21 +55,25 @@ Encouraging continued research, policy development, and public engagement.
    
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+ 
+![image](https://github.com/varshithams/portfolio/assets/65653455/490cfbea-9eb0-4b7f-b065-73180278c7ac)
 
-Text here...
+The first graph displays the concentrations of various types of microplastics in simulated marine environments called mesocosms. This study is crucial for understanding how these microplastic concentrations impact marine ecosystems and productivity.
+
+![image](https://github.com/varshithams/portfolio/assets/65653455/545315da-a4a9-4204-b918-19a2a86417c6)
+
+The second graph illustrates the characteristics of repositories storing microplastic data and the study sites referenced in articles. This data helps us understand where microplastic research is conducted and how data is stored, aiding in identifying gaps and guiding future research and policy decisions.
+
+These visualizations aim to complement the narrative outlined in the project structure, providing insights into microplastic concentrations and data repository characteristics to enhance understanding and inform decision-making regarding microplastic pollution.
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+The data for this project is sourced from two publicly available websites, [FRDR dataset](https://www.frdr-dfdr.ca/repo/dataset/431c9d2f-7bc2-4600-8f4a-b29f4fa732f4) and [Datadryad dataset](https://datadryad.org/stash/dataset/doi:10.5061/dryad.z612jm6h2), which host datasets related to microplastic pollution research. Being publicly available, these datasets alleviate concerns regarding copyright issues. I plan to analyze these datasets to investigate microplastic concentrations in marine environments, understand their impact on ecosystem functioning, and assess trends in data sharing and accessibility within the microplastic research community. Through visualization and interpretation of these datasets, I aim to contribute insights into the current state of microplastic pollution research and inform strategies for addressing this environmental challenge.
 
-Text here...
-
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
 | Name | URL | Description |
 |------|-----|-------------|
-|      |     |             |
-|      |     |             |
+| FRDR dataset     | https://www.frdr-dfdr.ca/repo/dataset/431c9d2f-7bc2-4600-8f4a-b29f4fa732f4) and [Datadryad dataset](https://datadryad.org/stash/dataset/doi:10.5061/dryad.z612jm6h2    |             |
+| Datadryad dataset     |     |  https://datadryad.org/stash/dataset/doi:10.5061/dryad.z612jm6h2           |
 |      |     |             |
 
 # Method and medium
