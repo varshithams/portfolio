@@ -67,13 +67,13 @@ The second graph illustrates the characteristics of repositories storing micropl
 These visualizations aim to complement the narrative outlined in the project structure, providing insights into microplastic concentrations and data repository characteristics to enhance understanding and inform decision-making regarding microplastic pollution.
 
 # The data
-The data for this project is sourced from two publicly available websites, [FRDR dataset](https://www.frdr-dfdr.ca/repo/dataset/431c9d2f-7bc2-4600-8f4a-b29f4fa732f4) and [Datadryad dataset](https://datadryad.org/stash/dataset/doi:10.5061/dryad.z612jm6h2), which host datasets related to microplastic pollution research. Being publicly available, these datasets alleviate concerns regarding copyright issues. I plan to analyze these datasets to investigate microplastic concentrations in marine environments, understand their impact on ecosystem functioning, and assess trends in data sharing and accessibility within the microplastic research community. Through visualization and interpretation of these datasets, I aim to contribute insights into the current state of microplastic pollution research and inform strategies for addressing this environmental challenge.
+The data for this project is sourced from two publicly available websites, which host datasets related to microplastic pollution research. Being publicly available, these datasets alleviate concerns regarding copyright issues. I plan to analyze these datasets to investigate microplastic concentrations in marine environments, understand their impact on ecosystem functioning, and assess trends in data sharing and accessibility within the microplastic research community. Through visualization and interpretation of these datasets, I aim to contribute insights into the current state of microplastic pollution research and inform strategies for addressing this environmental challenge.
 
 
 | Name | URL | Description |
 |------|-----|-------------|
-| FRDR dataset     | https://www.frdr-dfdr.ca/repo/dataset/431c9d2f-7bc2-4600-8f4a-b29f4fa732f4) and [Datadryad dataset](https://datadryad.org/stash/dataset/doi:10.5061/dryad.z612jm6h2    |             |
-| Datadryad dataset     |     |  https://datadryad.org/stash/dataset/doi:10.5061/dryad.z612jm6h2           |
+| FRDR dataset     | https://www.frdr-dfdr.ca/repo/dataset/431c9d2f-7bc2-4600-8f4a-b29f4fa732f4) and [Datadryad dataset](https://datadryad.org/stash/dataset/doi:10.5061/dryad.z612jm6h2    | There are 3 datasets which I will using here for which concentrates mostly on how the usage of plastic or presence of microplastic in ocean has increased over time           |
+| Datadryad dataset     |  https://datadryad.org/stash/dataset/doi:10.5061/dryad.z612jm6h2   | This website concentrates on types of microplastic and there concentration in the ocean and their impact.          |
 |      |     |             |
 
 # Method and medium
