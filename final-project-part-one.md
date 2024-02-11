@@ -86,8 +86,8 @@ The data for this project is sourced from two publicly available websites, which
 
 | Name | URL | Description |
 |------|-----|-------------|
-| FRDR dataset     | https://www.frdr-dfdr.ca/repo/dataset/431c9d2f-7bc2-4600-8f4a-b29f4fa732f4) and [Datadryad dataset](https://datadryad.org/stash/dataset/doi:10.5061/dryad.z612jm6h2    | There are 3 datasets which I will using here for which concentrates mostly on how the usage of plastic or presence of microplastic in ocean has increased over time           |
-| Datadryad dataset     |  https://datadryad.org/stash/dataset/doi:10.5061/dryad.z612jm6h2   | This website concentrates on types of microplastic and their concentration in the ocean and their impact.          |
+| FRDR dataset     | https://www.frdr-dfdr.ca/repo/dataset/431c9d2f-7bc2-4600-8f4a-b29f4fa732f4 | This dataset primarily focuses on the temporal trends in microplastic usage and the presence of microplastics in the ocean. It provides valuable information on how the usage of plastic has increased over time, contributing to the accumulation of microplastics in marine environments.         |
+| Datadryad dataset     |  https://datadryad.org/stash/dataset/doi:10.5061/dryad.z612jm6h2   |This dataset delves into the types of microplastics present in the ocean, their concentration levels, and their impact on marine ecosystems. It offers insights into the distribution of different types of microplastics and their potential effects on marine biodiversity and ecosystem health.         |
 |      |     |             |
 
 # Method and medium
