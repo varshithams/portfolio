@@ -1,14 +1,14 @@
 | [home page](https://varshithams.github.io/portfolio/) | [visualizing debt](visualizing-government-debt) |  [heat map](heat-map) | [Area chart](area-chart) | [Bar chart](bar-chart) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Outline
-> In light of the escalating prevalence of microplastics within ocean ecosystems, my project seeks to illuminate the less explored dimensions of their impact, particularly on ecosystem functioning and the intricate dynamics at the lower trophic levels. The pervasive nature of microplastics and their documented effects on individual organisms and populations underscore a pressing environmental crisis. However, the broader implications on ecosystem functionality, especially the influence on the foundational elements of marine life such as microbial communities and primary productivity processes, remain largely enigmatic. My interest in this project stems from a profound concern over this serious issue, which not only jeopardizes marine biodiversity but also threatens the ecological balance and health of ocean ecosystems at large.
+In light of the escalating prevalence of microplastics within ocean ecosystems, my project seeks to illuminate the less explored dimensions of their impact, particularly on ecosystem functioning and the intricate dynamics at the lower trophic levels. The pervasive nature of microplastics and their documented effects on individual organisms and populations underscore a pressing environmental crisis. However, the broader implications on ecosystem functionality, especially the influence on the foundational elements of marine life such as microbial communities and primary productivity processes, remain largely enigmatic. My interest in this project stems from a profound concern over this serious issue, which not only jeopardizes marine biodiversity but also threatens the ecological balance and health of ocean ecosystems at large.
 
-> Through this project, I aim to shed light on the critical yet underappreciated aspect of microplastic pollution — its capacity to alter the very fabric of oceanic life at the microbial level, with far-reaching consequences on the overall productivity and health of marine ecosystems. By unraveling the complex interactions and feedback mechanisms instigated by microplastics, this study aspires to contribute valuable insights to the scientific community, inform policy-making, and catalyze a broader public understanding of the urgent need to address microplastic pollution. The ultimate goal is to foster a more informed and concerted effort towards mitigating this grave environmental challenge, safeguarding marine biodiversity, and preserving the ocean's vital ecosystem services.
+Through this project, I aim to shed light on the critical yet underappreciated aspect of microplastic pollution — its capacity to alter the fabric of oceanic life at the microbial level, with far-reaching consequences on marine ecosystems' overall productivity and health. By unraveling the complex interactions and feedback mechanisms instigated by microplastics, this study aspires to contribute valuable insights to the scientific community, inform policy-making, and catalyze a broader public understanding of the urgent need to address microplastic pollution. The ultimate goal is to foster a more informed and concerted effort towards mitigating this grave environmental challenge, safeguarding marine biodiversity, and preserving the ocean's vital ecosystem services.
 
 # Project Structure
 1. Introduction: Setting the Scene
    
-   Investigating the pervasive impact of microplastics on marine microbial ecosystems and their broader implications on oceanic productivity and ecosystem health.As a concerned environmentalist, the user wants to understand how microplastics affect marine life at a microscopic level to advocate for effective pollution control measures.
+   Investigating the pervasive impact of microplastics on marine microbial ecosystems and their broader implications on oceanic productivity and ecosystem health. As a concerned environmentalist, I want to understand and convey how microplastics affect marine life at a microscopic level to advocate for effective pollution control measures.
 Sketch: An illustration of a polluted ocean scene with microplastics depicted alongside marine life.
 Header: "Investigating the Pervasive Impact of Microplastics on Marine Ecosystems"
 
@@ -57,7 +57,7 @@ Header: "Strategies for Combatting Microplastic Pollution"
 
 8. Conclusion: A Call to Action
 
-Summarizing the urgent need for collective efforts to mitigate microplastic pollution.
+I am summarizing the urgent need for collective efforts to mitigate microplastic pollution.
 Encouraging continued research, policy development, and public engagement.
 Sketch: A group of diverse individuals standing together, representing collective action.
 Header: "Calling for Collective Efforts to Address Microplastic Pollution"
