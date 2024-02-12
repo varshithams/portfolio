@@ -6,48 +6,48 @@ In light of the escalating prevalence of microplastics within ocean ecosystems, 
 Through this project, I aim to shed light on the critical yet underappreciated aspect of microplastic pollution — its capacity to alter the fabric of oceanic life at the microbial level, with far-reaching consequences on marine ecosystems' overall productivity and health. By unraveling the complex interactions and feedback mechanisms instigated by microplastics, this study aspires to contribute valuable insights to the scientific community, inform policy-making, and catalyze a broader public understanding of the urgent need to address microplastic pollution. The ultimate goal is to foster a more informed and concerted effort towards mitigating this grave environmental challenge, safeguarding marine biodiversity, and preserving the ocean's vital ecosystem services.
 
 # Project Structure
-### Introduction: Setting the Scene
+### 1. Introduction: Setting the Scene
    
    Investigating the pervasive impact of microplastics on marine microbial ecosystems and their broader implications on oceanic productivity and ecosystem health. As a concerned environmentalist, I want to understand and convey how microplastics affect marine life at a microscopic level to advocate for effective pollution control measures.
 Sketch: An illustration of a polluted ocean scene with microplastics depicted alongside marine life.
 Header: "Investigating the Pervasive Impact of Microplastics on Marine Ecosystems"
 
-### The Problem: Microplastics in Our Oceans
+### 2. The Problem: Microplastics in Our Oceans
    
 Overview of microplastics and their sources.
 The scale of microplastic pollution and its distribution across marine environments.
 Sketch: A world map overlaid with markers indicating areas of high microplastic concentration.
 Header: "Understanding the Scale of Microplastic Pollution"
 
-### The Impact on Marine Life
+### 3. The Impact on Marine Life
 
 Documented effects of microplastics on individual organisms and populations.
 I am interested in the less-known effects of microplastics on ecosystem functioning.
 Sketch: Microscope view of microplastics interacting with marine organisms.
 Header: "Unveiling the Hidden Effects of Microplastics"
 
-### Unveiling the Unknown: Microplastics and Marine Microbial Ecosystems
+### 4. Unveiling the Unknown: Microplastics and Marine Microbial Ecosystems
 
 Introduction to marine microbial ecosystems and their importance.
 Sketch: Diagram showing the role of microbial communities in marine ecosystems.
 Header: "Exploring Microplastics' Impact on Marine Microbial Ecosystems"
 
 
-### Experimental Insights: Plastics in Aquatic Systems: from Transport and Fate to Impacts and Management Perspectives
+### 5. Experimental Insights: Plastics in Aquatic Systems: from Transport and Fate to Impacts and Management Perspectives
 
 Description of the experimental setup and methodology.
 Key findings
 Sketch: Comparative graphs showcasing microplastic concentrations over time in mesocosm experiments.
 Header: "Investigating Microplastics in Aquatic Systems"
 
-### Broader Implications: From Microbes to Ocean Health
+### 6. Broader Implications: From Microbes to Ocean Health
 
 How changes at the microbial level affect the larger marine ecosystem.
 The potential long-term consequences of disrupted marine productivity.
 Sketch: Visualization depicting the cascade effects of microplastics on marine ecosystem health.
 Header: "Understanding Microplastics' Broader Impact on Ocean Health"
 
-### The Way Forward: Addressing Microplastic Pollution
+### 7. The Way Forward: Addressing Microplastic Pollution
 
 Strategies for reducing microplastic pollution.
 The role of research, policy, and public awareness in combating this issue.
@@ -55,14 +55,14 @@ Visual: Timeline of proposed actions and initiatives.
 Sketch: Timeline of proposed actions and initiatives to mitigate microplastic pollution.
 Header: "Strategies for Combatting Microplastic Pollution"
 
-### Conclusion: A Call to Action
+### 8. Conclusion: A Call to Action
 
 I am summarizing the urgent need for collective efforts to mitigate microplastic pollution.
 Encouraging continued research, policy development, and public engagement.
 Sketch: A group of diverse individuals standing together, representing collective action.
 Header: "Calling for Collective Efforts to Address Microplastic Pollution"
 
-### References and Further Reading
+### 9. References and Further Reading
     Reference: "Plastics in Aquatic Systems: from Transport and Fate to Impacts and Management Perspectives"
    [Plastics in Aquatic Systems: from Transport and Fate to Impacts and Management Perspectives](https://www.frontiersin.org/research-topics/26640/plastics-in-aquatic-systems-from-transport-and-fate-to-impacts-and-management-perspectives/articles) 
 
