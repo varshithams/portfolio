@@ -8,14 +8,14 @@ Through this project, I aim to shed light on the critical yet underappreciated a
 # Project Structure
 ### 1. Introduction: Setting the Scene
    
-   Investigating the pervasive impact of microplastics on marine microbial ecosystems and their broader implications on oceanic productivity and ecosystem health. As a concerned environmentalist, I want to understand and convey how microplastics affect marine life at a microscopic level to advocate for effective pollution control measures.
+   Investigating the pervasive impact of microplastics on marine microbial ecosystems and their broader implications on oceanic productivity and ecosystem health. As a concerned environmentalist, I want to understand and convey how microplastics affect marine life at a microscopic level to advocate for effective pollution control measures. I will start by adding pictures of organisms in the ocean that died due to plastic consumption. 
 Sketch: An illustration of a polluted ocean scene with microplastics depicted alongside marine life.
 Header: "Investigating the Pervasive Impact of Microplastics on Marine Ecosystems"
 
 ### 2. The Problem: Microplastics in Our Oceans
    
 Overview of microplastics and their sources.
-The scale of microplastic pollution and its distribution across marine environments.
+The scale of microplastic pollution and its distribution across marine environments. I will bring up how plastics are not being decomposed. Globally only 9% of plastic is decomposed annually, the rest are left in landfills. I will cite the source and highlight the major issue.
 Sketch: A world map overlaid with markers indicating areas of high microplastic concentration.
 Header: "Understanding the Scale of Microplastic Pollution"
 
@@ -36,18 +36,13 @@ Header: "Exploring Microplastics' Impact on Marine Microbial Ecosystems"
 ### 5. Experimental Insights: Plastics in Aquatic Systems: from Transport and Fate to Impacts and Management Perspectives
 
 Description of the experimental setup and methodology.
-Key findings
+Key findings: This is where I will be adding the graphs to mention the impacts microplastic has had on different countries. Also how much of the effect has increased over the years and so on.
+The potential long-term consequences of disrupted marine productivity.
 Sketch: Comparative graphs showcasing microplastic concentrations over time in mesocosm experiments.
 Header: "Investigating Microplastics in Aquatic Systems"
 
-### 6. Broader Implications: From Microbes to Ocean Health
 
-How changes at the microbial level affect the larger marine ecosystem.
-The potential long-term consequences of disrupted marine productivity.
-Sketch: Visualization depicting the cascade effects of microplastics on marine ecosystem health.
-Header: "Understanding Microplastics' Broader Impact on Ocean Health"
-
-### 7. The Way Forward: Addressing Microplastic Pollution
+### 6. The Way Forward: Addressing Microplastic Pollution
 
 Strategies for reducing microplastic pollution.
 The role of research, policy, and public awareness in combating this issue.
@@ -55,14 +50,14 @@ Visual: Timeline of proposed actions and initiatives.
 Sketch: Timeline of proposed actions and initiatives to mitigate microplastic pollution.
 Header: "Strategies for Combatting Microplastic Pollution"
 
-### 8. Conclusion: A Call to Action
+### 7. Conclusion: A Call to Action
 
 I am summarizing the urgent need for collective efforts to mitigate microplastic pollution.
-Encouraging continued research, policy development, and public engagement.
+I will bring awareness about making plastic-free choices(restaurants, hotels, flights, etc). 
 Sketch: A group of diverse individuals standing together, representing collective action.
 Header: "Calling for Collective Efforts to Address Microplastic Pollution"
 
-### 9. References and Further Reading
+### 8. References and Further Reading
     Reference: "Plastics in Aquatic Systems: from Transport and Fate to Impacts and Management Perspectives"
    [Plastics in Aquatic Systems: from Transport and Fate to Impacts and Management Perspectives](https://www.frontiersin.org/research-topics/26640/plastics-in-aquatic-systems-from-transport-and-fate-to-impacts-and-management-perspectives/articles) 
 
