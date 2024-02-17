@@ -49,7 +49,7 @@ Third
 | What were the instances in the presentation that attracted your attention to the issue? | Projection, 9% of plastic being recycled   | 17.6 billion pounds being dumped, projection of 2035   |  |
 | Do you feel a personal connection or responsibility to address the issue of plastic pollution? |Yes of course. Especially given the numbers and projects that this plastic pollution can lead this world to, a sense of responsibility certainly has been induced within me | Yes I feel like as humans we have a huge responsibility towards the issue | |
 |How would you rate the user experience and design of our website, including navigation, layout, and visual appeal?|10/10. Curated information is very convenient to understand what I am reading and paints a clear picture of the danger. coordinated colors on the website make it an attractive visual experience.  | 10/10 on visual appeal, 9/10 for navigation because I feel like having them on the left side makes it more comfortable  | |
-|What specific changes or additions would you suggest to make the website a more effective tool in the fight against plastic pollution in the ocean? | The number of endangered species that die in the ocean because of plastic can be added | What current organizations are ding to address this? Is the government doing anything? Add videos and discussion forum to make it more engaging |   |
+|What specific changes or additions would you suggest to make the website a more effective tool in the fight against plastic pollution in the ocean? | The number of endangered species that die in the ocean because of plastic can be added | What current organizations are doing to address this? Is the government doing anything? Add videos and a discussion forum to make it more engaging |   |
  
 
 
@@ -59,17 +59,11 @@ Third
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
 | Endangered animals                       | The number of endangered species that die in the ocean because of plastic       |
+| Other organization/discussion forum      | What current organizations are doing to address this? Is the government doing anything? Add videos and a discussion forum to make it more engaging                                                                                |
 |                                          |                                                                                 |
 |                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+|            |                                                                                 |
 
-> ...include any final thoughts you have here. 
+Post discussion I also realized I could add global visualization where I can highlight regions that are mostly affected by plastic pollution in the ocean. 
 
-
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
 
