@@ -20,15 +20,15 @@ Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
-| Awareness and Knowledge:     | How familiar are you with the issue of plastic pollution in the ocean?        |
-|                              | What do you think are the ocean's primary sources of plastic pollution?  |
-|                              | How concerned are you about the impact of plastic pollution on marine life and ecosystems?  |
-|                              | What were the instances in the presentation that attracted your attention to the issue? |
-|                              | Is the microplastic effect on organisms or humans conveyed through my presentation?|
-|                              | Which was the surprising element about plastic pollution on the website? |
-|                              | Do you feel a personal connection or responsibility to address the issue of plastic pollution? |
-|                              | How would you rate the user experience and design of our website, including navigation, layout, and visual appeal? |
-|                              | What specific changes or additions would you suggest to make our website a more effective tool in the fight against plastic pollution in the ocean?|
+| Awareness and Knowledge      | How familiar are you with the issue of plastic pollution in the ocean?        |
+| Awareness and Knowledge      | What do you think are the ocean's primary sources of plastic pollution?  |
+| Awareness and Knowledge      | How concerned are you about the impact of plastic pollution on marine life and ecosystems?  |
+| Website Feedback             | What were the instances in the presentation that attracted your attention to the issue? |
+| Website Feedback             | Is the microplastic effect on organisms or humans conveyed through my presentation?|
+| Website Feedback             | What was the surprising element about plastic pollution on the website? |
+| Personal Connection          | Do you feel a personal connection or responsibility to address the issue of plastic pollution? |
+| Website Feedback           | How would you rate the user experience and design of our website, including navigation, layout, and visual appeal? |
+| Website Feedback            | What specific changes or additions would you suggest to make our website a more effective tool in the fight against plastic pollution in the ocean?|
 
 
 Text here!
@@ -44,7 +44,7 @@ Text here!
 | What do you think are the ocean's primary sources of plastic pollution? |   Industrial wastes |             |             |
 | How concerned are you about the impact of plastic pollution on marine life and ecosystems? |  I am quite concerned about the pollution that might cause a natural imbalance in the ecosystem which may lead to catastrophic consequences for human life as well |             |             |
 |Is the microplastic effect on organisms or humans conveyed through my presentation?  |  Yes it does. There was quite a lot of information on the website.|            |             |
-| Which was the surprising element about plastic pollution on the website? | 17.6 billion pounds of plastic waste is dumped in the ocean every year which is surprising and sad at the same time.|      |     |
+| What was the surprising element about plastic pollution on the website? | 17.6 billion pounds of plastic waste is dumped in the ocean every year which is surprising and sad at the same time.|      |     |
 | What were the instances in the presentation that attracted your attention to the issue? | Projection, 9% of plastic being recycled   |    |  |
 | Do you feel a personal connection or responsibility to address the issue of plastic pollution? |Yes of course. Especially given the numbers and projects that this plastic pollution can lead this world to, a sense of responsibility certainly has been induced within me | | |
 |How would you rate the user experience and design of our website, including navigation, layout, and visual appeal?|10/10. Curated information is very convenient to understand what I am reading and paints a clear picture of the danger. coordinated colors on the website make it an attractive visual experience.  | | |
