@@ -61,10 +61,10 @@ Third
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
 | Endangered animals                       | The number of endangered species that die in the ocean because of plastic       |
-| Other organization/discussion forum      | What current organizations are doing to address this? Is the government doing anything? Add videos and a discussion forum to make it more engaging                                                                                |
+| Other organization                       | What current organizations are doing to address this? Is the government doing anything?    |
+| Discussion forum                         |  Discussion forum to make it more engaging                                                 |
+| Add videos                               |   Adding videos can add to the seriousness one intended to convey here                  |
 |                                          |                                                                                 |
-|                                          |                                                                                 |
-|            |                                                                                 |
 
 Post discussion I also realized I could add global visualization where I can highlight regions that are mostly affected by plastic pollution in the ocean. 
 
