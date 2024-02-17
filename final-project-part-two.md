@@ -8,15 +8,19 @@ Text here!
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story.
+
+I decided to reach out to these people I know who have backgrounds closer to such issues as well as to someone who might be not as invested but would like to know about the issue. This way I can get feedback from different perspectives.
+
+First I interviewed my friend who is doing his MA in Communication and Media. He is currently doing his study on UNSDG goals and I felt he would be perfect to interview as he has prior knowledge about the issue
+
+Second
+
+Third
+
   
 
-Text here!
-
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
 
-Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
@@ -31,12 +35,8 @@ Text here!
 | Website Feedback            | What specific changes or additions would you suggest to make our website a more effective tool in the fight against plastic pollution in the ocean?|
 
 
-Text here!
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
-
-Text here!
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
@@ -53,9 +53,7 @@ Text here!
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
@@ -67,7 +65,7 @@ Text here!
 
 > ...include any final thoughts you have here. 
 
-Text here!
+
 
 # Moodboards / personas
 > If you did this optional part, include details here.  Otherwise remove this section
