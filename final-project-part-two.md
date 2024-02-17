@@ -64,7 +64,7 @@ Third
 | Other organization                       | What current organizations are doing to address this? Is the government doing anything?    |
 | Discussion forum                         |  Discussion forum to make it more engaging                                                 |
 | Add videos                               |   Adding videos can add to the seriousness one intended to convey here                  |
-| NGO/Volunteers                           |Organisations are looking for volunteers, so this website can provide information/ contact details about them                                          |
+| NGO/Volunteers                           |Organisations are looking for volunteers, so this website can provide information/ contact details about them    |
 
 Post discussion I also realized I could add global visualization where I can highlight regions that are mostly affected by plastic pollution in the ocean. 
 
