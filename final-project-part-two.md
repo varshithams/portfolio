@@ -40,7 +40,7 @@ Third
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| How familiar are you with the issue of plastic pollution in the ocean? | Insightful feedback | Moderately familiar  |             |
+| How familiar are you with the issue of plastic pollution in the ocean? | Moderately familiar |   |             |
 | What do you think are the ocean's primary sources of plastic pollution? |   Industrial wastes |             |             |
 | How concerned are you about the impact of plastic pollution on marine life and ecosystems? |  I am quite concerned about the pollution that might cause a natural imbalance in the ecosystem which may lead to catastrophic consequences for human life as well |             |             |
 |Is the microplastic effect on organisms or humans conveyed through my presentation?  |  Yes it does. There was quite a lot of information on the website.|            |             |
