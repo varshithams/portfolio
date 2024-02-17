@@ -6,6 +6,8 @@ I had written a detailed project structure in part one which helped me with the 
 Using Shorthand, I designed the visual elements of the site, choosing a color scheme and layout that reflected the serious tone of the subject matter. I made sure that the visualizations were interactive where possible, such as hovering over graphs, and navigation that reveal more information upon interaction, to keep users engaged.
 I then integrated the data from the datasets into Tableau, creating the visualizations that would be embedded into the website.
 
+This is the [website](https://carnegiemellon.shorthandstories.com/vms/plastic-pollution-in-ocean/index.html) I created on "Plastic Pollution in Ocean."
+
 # User research 
 
 ## Target audience
