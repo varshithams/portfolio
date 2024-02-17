@@ -1,9 +1,10 @@
 | [home page](https://varshithams.github.io/portfolio/) | [visualizing debt](visualizing-government-debt) |  [heat map](heat-map) | [Area chart](area-chart) | [Bar chart](bar-chart) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
 
-Text here!
+I had written a detailed project structure in part one which helped me with the flow of the website. With each part, I wrote a description of the research, and study I was inspired by and added relevant images.
+Using Shorthand, I designed the visual elements of the site, choosing a color scheme and layout that reflected the serious tone of the subject matter. I made sure that the visualizations were interactive where possible, such as hovering over graphs, and navigation that reveal more information upon interaction, to keep users engaged.
+I then integrated the data from the datasets into Tableau, creating the visualizations that would be embedded into the website.
 
 # User research 
 
@@ -11,9 +12,9 @@ Text here!
 
 I decided to reach out to these people I know who have backgrounds closer to such issues as well as to someone who might be not as invested but would like to know about the issue. This way I can get feedback from different perspectives.
 
-First I interviewed my friend who is doing his MA in Communication and Media. He is currently doing his study on UNSDG goals and I felt he would be perfect to interview as he has prior knowledge about the issue
+First I interviewed my friend who is doing his MA in Communication and Media, mid 20's. He is currently doing his study on UNSDG goals and I felt he would be perfect to interview as he has prior knowledge about the issue.
 
-Second
+Second I interviewed one who is in MISM-BIDA CMU, mid 20's who has knowledge about UNSDG and was concerned about the pollution.
 
 Third
 
@@ -40,7 +41,7 @@ Third
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| How familiar are you with the issue of plastic pollution in the ocean? | Moderately familiar | Somewhat Familiar  |             |
+| How familiar are you with the issue of plastic pollution in the ocean? | Familiar | Somewhat Familiar  |             |
 | What do you think are the ocean's primary sources of plastic pollution? |   Industrial wastes | sewage dumped into the ocean with no proper treatment            |             |
 | How concerned are you about the impact of plastic pollution on marine life and ecosystems? |  I am quite concerned about the pollution that might cause a natural imbalance in the ecosystem which may lead to catastrophic consequences for human life as well | I feel very sad that the usage of plastic is exponentially high which is not only affecting them but also the marine life as we dump them without thinking twice.            |             |
 |Is the microplastic effect on organisms or humans conveyed through my presentation?  |  Yes it does. There was quite a lot of information on the website.| Yes. The way  the visuals are used to demonstrate the impact is eye-catching which makes me dive deep into the effect the plastic is causing  |             |
