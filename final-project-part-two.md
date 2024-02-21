@@ -18,7 +18,7 @@ First I interviewed my friend who is doing his MA in Communication and Media, mi
 
 Second I interviewed one who is in MISM-BIDA CMU, mid 20's who has knowledge about UNSDG and was concerned about the pollution.
 
-Third
+Third I reached out to a MISM student of CMU, mid 20's who is familiar and would want to do something regarding the issue
 
   
 
