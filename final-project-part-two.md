@@ -10,6 +10,12 @@ This is the [website](https://carnegiemellon.shorthandstories.com/vms/plastic-po
 
 <script src="https://carnegiemellon.shorthandstories.com/vms/plastic-pollution-in-ocean/embed.js"></script>
 
+## Challenges
+
+1. I found it challenging to find the dataset. Especially when I wanted to create a map, the dataset I found did not have latitude and longitude, so I had to get that data separated and do vlookup.
+2. Going through a lot of research and study to understand the subject where some had contradicting opinions and summing it up based on what the audience has to know
+3. Choosing proper fields to work in Tableau
+
 # User research 
 
 ## Target audience
@@ -68,6 +74,5 @@ Third I reached out to a MISM student of CMU, mid 20's who is familiar and would
 | Add videos                               |   Adding videos can add to the seriousness one intended to convey here                  |
 | NGO/Volunteers                           |Organisations are looking for volunteers, so this website can provide information/ contact details about them    |
 
-Post discussion I also realized I could add global visualization where I can highlight regions that are mostly affected by plastic pollution in the ocean. 
 
 
