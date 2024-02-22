@@ -74,5 +74,5 @@ Third I reached out to a MISM student of CMU, mid 20's who is familiar and would
 | Add videos                               |   Adding videos can add to the seriousness one intended to convey here                  |
 | NGO/Volunteers                           |Organisations are looking for volunteers, so this website can provide information/ contact details about them    |
 
-
+I have covered plastic usage around the globe and also the projection of the number we might reach if we keep using them. Next, I am planning to get more data on the impact it has created in any way to our health in numbers.
 
