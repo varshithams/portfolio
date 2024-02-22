@@ -43,7 +43,7 @@ Third I reached out to a MISM student of CMU, mid 20's who is familiar and would
 
 ## Interview findings
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               | Interview 1  | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
 | How familiar are you with the issue of plastic pollution in the ocean? | Familiar | Somewhat Familiar  |  Familiar           |
 | What do you think are the ocean's primary sources of plastic pollution? |   Industrial wastes | sewage dumped into the ocean with no proper treatment            |Household trash, clothes, restaurants            |
