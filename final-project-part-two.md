@@ -8,6 +8,8 @@ I then integrated the data from the datasets into Tableau, creating the visualiz
 
 This is the [website](https://carnegiemellon.shorthandstories.com/vms/plastic-pollution-in-ocean/index.html) I created on "Plastic Pollution in Ocean."
 
+<script src="https://carnegiemellon.shorthandstories.com/vms/plastic-pollution-in-ocean/embed.js"></script>
+
 # User research 
 
 ## Target audience
