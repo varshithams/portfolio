@@ -40,3 +40,6 @@ Taking interviews with individuals who are concerned about UNSDG, one being a pe
 
 In the third part, I added most of the changes mentioned like the marine animals being affected, organizations that are taking part already to address the issue, and how much money we can save by shifting to plastic-free using a heat map. This added more weight to my website.
 
+# Website looks like this
+<script src="https://carnegiemellon.shorthandstories.com/vms/plastic-pollution-in-ocean/embed.js"></script>
+
