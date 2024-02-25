@@ -1,7 +1,7 @@
 | [home page](https://varshithams.github.io/portfolio/) | [visualizing debt](visualizing-government-debt) |  [heat map](heat-map) | [Area chart](area-chart) | [Bar chart](bar-chart) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-This is my final [website]() for my topic " Plastic Pollution in Ocean".
+This is my final [website](https://carnegiemellon.shorthandstories.com/vms/plastic-pollution-in-ocean/index.html) for my topic " Plastic Pollution in Ocean".
 
 
 # Changes made since Part II
