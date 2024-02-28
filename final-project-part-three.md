@@ -22,6 +22,7 @@ I wanted to add another visualization that tells an individual how much they can
 
 ## The audience
 The audience for this particular website would be the **general public** as most people in the world are involved in using plastic products in one way or the other. The message or call to action is for everybody who is using plastic products on why should we stop using them and the effects of plastics if we keep using them.
+As my audience is the general public I made sure I kept all the details and information super simple and clear so it's easy to understand. Simple explanation with greater impact is something that I considered here as the audience can be anybody from kids to elder people and they should be able to understand everything. Keeping this in mind from part 1 itself, I have worked towards the project making sure it reaches everyone who visits the website.
 
 I went ahead and checked with a few more people and took reviews on my website who are aware and some are unaware of the UNSDG goal associated with plastic issues.
 
