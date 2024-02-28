@@ -45,6 +45,24 @@ When I started this particular project I took a lot of time in Part I and I feel
 In the second part, when I started representing the structure I wrote in part II, I found it good as I was just following the structure. My time went here for visualization on choosing how I want to represent the structure that I defined previously. The flow mattered here as I had to convey a story. I did state the problem first, a source on what causing this marine pollution, how much of an impact is it creating in numbers, and mainly how that is affecting us as well and not just the marine population. This will make users understand why this is a serious issue and it's high time we react. Now I have written how we should start taking action which is making plastic-free choices and if we do so how much we shall save. 
 Taking interviews with individuals who are concerned about UNSDG, one being a person from the media helped me get a great insight on how I can make this website a better one. so I made the following changes in the third part.
 
+## References 
+
+Jenkins, T., Persaud, B. D., Cowger, W., Szigeti, K., Roche, D. G., Clary, E., Slowinski, S., Lei, B., Abeynayaka, A., Nyadjro, E. S., Maes, T., Thornton Hampton, L., Bergmann, M., Aherne, J., Mason, S. A., Honek, J. F., Rezanezhad, F., Lusher, A. L., Booth, A. M., … Van Cappellen, P. (2022). Current State of Microplastic Pollution Research Data: Trends in Availability and Sources of Open Data. Frontiers in Environmental Science, 10. https://www.frontiersin.org/articles/10.3389/fenvs.2022.912107
+
+Mismanaged plastic waste per capita. (n.d.). Our World in Data. Retrieved February 22, 2024, from https://ourworldindata.org/grapher/mismanaged-plastic-waste-per-capita
+
+Montoya, D. (2023). Microplastics effects on marine microbial communities and their functioning (Version 6, p. 15720 bytes) [dataset]. Dryad. https://doi.org/10.5061/DRYAD.Z612JM6H2
+
+Ritchie, H., Samborska, V., & Roser, M. (2023). Plastic Pollution. Our World in Data. https://ourworldindata.org/plastic-pollution
+
+Home—Oceana. (n.d.). Retrieved February 24, 2024, from https://oceana.org/
+
+How Much $$ Reusable Swaps Can Save You | Future.Green. (n.d.). Retrieved February 24, 2024, from https://www.future.green/futureblog/how-much-reusable-swaps-can-save-you
+
+The Story of Plastic: Where Your Recycled Plastic Ends Up—YouTube. (n.d.). Retrieved February 24, 2024, from https://www.youtube.com/watch?v=urFZ5o0az_4
+
+https://education.nationalgeographic.org/resource/whopping-91-percent-plastic-isnt-recycled/
+
 In the third part, I added most of the changes mentioned like the marine animals being affected, organizations that are taking part already to address the issue, and how much money we can save by shifting to plastic-free using a heat map. This added more weight to my website.
 
 # Website looks like this
