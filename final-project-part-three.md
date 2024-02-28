@@ -21,10 +21,14 @@ I wanted to add another visualization that tells an individual how much they can
 
 
 ## The audience
-Person 1: He is a MEM student in CMU, who is aware of UNSDG. 
+The audience for this particular website would be the **general public** as most people in the world are involved in using plastic products in one way or the other. The message or call to action is for everybody who is using plastic products on why should we stop using them and the effects of plastics if we keep using them.
+
+I went ahead and checked with a few more people and took reviews on my website who are aware and some are unaware of the UNSDG goal associated with plastic issues.
+
+**Person 1**: He is a MEM student in CMU, who is aware of UNSDG. 
 He mentioned that he liked the way the story unfolded. Numbers did scare and mainly projection gives this story a strong point to be considered. Adding the organization that is already a part of and what the call to action is also mentioned simply and understandably. He also said this is more like a one-step to every piece of information. I can find why, what how, and when answers in just one website. In the part where I have mentioned how much money we shall save if we make plastic-free choices, the breakdown is very interesting, but he mentioned adding a few lines on how much will I be spending if I still stick to using plastic. So this way we shall have something to compare regarding costs. This made sense and I will be adding a few information on this as well.
 
-I showed it to my parents as well and they are way too proud for some reason. They mentioned data wise it has a strong point and seriousness is drawn towards it. My dad being a National trainer said visualisation looks good and catchy. 
+I showed it to my parents, who are in their mid-50s and they are way too proud for some reason. They mentioned data wise it has a strong point and seriousness is drawn towards it. My dad being a National trainer said visualisation looks good and catchy. 
 
 
 ## Final design decisions
