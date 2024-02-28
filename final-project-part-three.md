@@ -46,4 +46,3 @@ In the third part, I added most of the changes mentioned like the marine animals
 
 # Website looks like this
 <script src="https://carnegiemellon.shorthandstories.com/vms/plastic-pollution-in-ocean/embed.js"></script>
-
