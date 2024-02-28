@@ -34,6 +34,9 @@ I showed it to my parents, who are in their mid-50s and they are way too proud f
 ## Final design decisions
 I have added more sections and kept the color coordinated for all these sections. For a heat map that I added, I chose to go with green color as it represents go green which is plastic-free and this is environment friendly. I have kept color throughout the website very coordinated and subtle. I also added a heat map in the end which indicated how much we save overall and that is why going plastic-free is the best choice. 
 
+### Things that stood out for me
+I love how I was able to visualize the graph which gradually shows the increase in plastic production and also the projection for 2035 if we keep using plastic this way. The way that the world map came out as well was impressive for me. The way I could use images to tell the story was something I was majorly focusing on and I am happy the way it came out.
+
 
 # Final thoughts
 
