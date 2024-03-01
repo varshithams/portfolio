@@ -15,4 +15,3 @@ The data source can be found [here](https://data.oecd.org/gga/general-government
 </script>
 
 
-This heat map excels in visual appeal and clarity by using color gradients to represent data values, allowing for quick identification of trends and comparisons across different locations and years. The chosen shades of blue to represent the data points not only make the map visually striking but also intuitively convey information about the magnitude of the values—darker shades indicating higher values and lighter shades for lower values. This design choice is particularly effective for multi-dimensional data, providing an at-a-glance understanding of complex datasets, which is essential for a concise yet comprehensive data analysis. The addition of interactive elements, such as tooltips that display exact figures for specific data points, further enriches the user experience by providing detailed information on demand.
