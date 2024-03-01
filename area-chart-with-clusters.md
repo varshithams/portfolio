@@ -17,12 +17,8 @@ Source : https://ourworldindata.org/time-with-others-lifetime
 
 ## This looks better because
 
-1. The use of clustering in the area chart clearly demarcates the data into visually distinct segments, making it easier to see the proportions of time spent with different groups at each age. This can be especially helpful when the data have overlapping values, which can be hard to decipher in a line chart.
+I used clustering in the area chart as it clearly demarcates the data into visually distinct segments, making it easier to see the proportions of time spent with different groups at each age. This can be especially helpful when the data have overlapping values, which can be hard to decipher in a line chart.
 
-2. This chart not only shows the individual data series but also the cumulative time spent with all groups up to a certain age. This gives a quick visual summary of total social time, something that line charts cannot provide without additional interpretation.
+In this area chart, it's easier to compare the data between different age groups as one can quickly glance at the thickness of the clusters, which corresponds to time spent. This can be more intuitive than trying to compare multiple lines on a line chart.
 
-3. In this area chart, it's easier to compare the data between different age groups as one can quickly glance at the thickness of the clusters, which corresponds to time spent. This can be more intuitive than trying to compare multiple lines on a line chart.
-
-4. The clusters with different colors create a strong visual impact, highlighting changes and trends in the data across different age groups. It provides a more immediate visual cue about the distribution of time spent across various social interactions as one age.
-
-5. The interactive features such as tooltips or clickable segments, allow users to drill down into specific data points for more detailed information. This interactivity can enhance user engagement and understanding of the data. A specific cluster can be checked if the user wants to zoom in particular age group for a better view.
+I represented clusters with different colors to create a strong visual impact, highlighting changes and trends in the data across different age groups. It provides a more immediate visual cue about the distribution of time spent across various social interactions as one ages.A specific cluster can be checked if the user wants to zoom in a particular age group for a better view.
