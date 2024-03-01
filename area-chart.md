@@ -16,5 +16,5 @@ The data source can be found [here](https://data.oecd.org/gga/general-government
 
 ### Economic Trends by Location: A Time Series Visualization of Market Dynamics using area chart
 
-Among the various methods, area charts, like the one I have created, are particularly useful for representing quantitative data over time, allowing the viewer to grasp trends and patterns at a glance. When constructing the data visualization, I faced a series of decisions regarding the chart type and color scheme. I chose an area chart because it adeptly illustrates how different locations' values have evolved over time.
+ I created an area chart particularly useful for representing quantitative data over time, allowing the viewer to grasp trends and patterns at a glance. When constructing the data visualization, I faced a series of decisions regarding the chart type and color scheme. I chose an area chart because it adeptly illustrates how different locations' values have evolved.
 
