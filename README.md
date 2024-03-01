@@ -22,7 +22,7 @@ Deloitte was an eye-opener, Carnegie Mellon is the gate to bigger opportunities,
 1. Learn to create effective data visualizations using various tools and mediums.
 2. Build a publicly accessible portfolio showcasing my work in data visualization.
 3. Learn how to tailor narratives to suit specific target audiences.
-4. And obviously learn how to tell stories with data!
+4. And learn how to tell stories with data!
 
    Post my graduation from CMU, I would like to pursue my career in the IT industry as a developer or data engineer.
 
@@ -46,7 +46,7 @@ I indulge myself in [extracurricular activities](https://www.instagram.com/jci.m
 
 ## Data Visualization using Tableau
 
-### 4 data Visualization
+### 4 Data Visualization
 
  Utilizing the comprehensive dataset provided in [visualizing debt](visualizing-government-debt), I have crafted below <u>three</u> distinct data visualizations to elucidate various aspects of the data, each tailored to present specific insights effectively.
 
@@ -67,7 +67,8 @@ Lastly, the [Area chart](area-chart)
 
 
 ## Other critiques
-Check out [Critique by Design with Tableau (MakeoverMonday)](critique-by-design)
+
+I also analyzed and critiqued " Who Americans spend their time by age" - [Critique by Design with Tableau (MakeoverMonday)](critique-by-design)
 
 
 
