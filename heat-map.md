@@ -14,4 +14,6 @@ The data source can be found [here](https://data.oecd.org/gga/general-government
   vizElement.parentNode.insertBefore(scriptElement, vizElement);      
 </script>
 
+When I represented the [data]() in Heat Map, it was confusing as the shades of blue were not that informative or clear. Not much clarity is found using this representation so decided to go ahead with other representations like [area chart](area-chart) and [bar chart](bar-chart).
+
 
