@@ -16,10 +16,10 @@ The data source can be found [here](https://data.oecd.org/gga/general-government
 
 ### Economic Trends by Location: A Time Series Visualization of Market Dynamics using bar chart
 
-The bar chart was chosen for this dataset to effectively communicate the changes in numerical values across multiple locations over a span of years. This type of chart is particularly adept at providing a clear visual comparison of values, such as economic indicators across countries. The use of a bar chart allows viewers to easily discern trends and make comparisons at a glance, with the length of the bars representing the magnitude of the values, which in this case could be a metric like debt-to-GDP ratio, population figures, or another quantitative measure.
+I chose a bar chart for this dataset to effectively communicate the changes in numerical values across multiple locations over a span of years.
 
-The chosen color, a shade of blue, is neutral and professional, minimizing distractions while ensuring that the focus remains on the data. Blue is often associated with trust and reliability, which can help in presenting the data in a way that is perceived as credible. It's also a color that is generally accessible to those with color vision deficiencies, making the chart inclusive to a wider audience.
+I chose a shade of blue, that is neutral and professional, minimizing distractions while ensuring that the focus remains on the data. 
 
 The numbers displayed on the graph provide exact values for each bar, which is essential for precise data analysis and verification. This addition improves the chart's utility for viewers who need to know the exact figures rather than just the visual trend.
 
-Overall, the bar chart's clean layout, aided by the sensible color choice and clear numerical labeling, creates a visually appealing and informative representation of the dataset, enabling better data comprehension and insight derivation.
+Overall, the bar chart's clean layout, aided by sensible color choice and clear numerical labeling, creates a visually appealing and informative representation of the dataset, enabling better data comprehension and insight derivation.
