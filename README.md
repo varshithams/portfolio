@@ -29,7 +29,9 @@ Deloitte was an eye-opener, Carnegie Mellon is the gate to bigger opportunities,
 
 ## Final Project
 
-This is [part1](https://varshithams.github.io/portfolio/final-project-part-one.md) and [part2](https://varshithams.github.io/portfolio/final-project-part-two.md) of final project.
+This is [part1](final-project-part-one) and [part2](final-project-part-two) of the final project where I worked on UNSDG goal number 14 which talks about life below water. I decided to focus on plastic pollution in marine ecosystems and how it affects marine lifestyles and human beings.
+
+Considering all the analysis this is my [part3](final-project-part-three) where I addressed the same issue using shorthand mentioned call to action and all of the research using data visualization.
 
 
 ## Skills
